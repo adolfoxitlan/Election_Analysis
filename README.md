@@ -10,5 +10,5 @@ The project's purpose is to conduct an audit of the data collected for the votin
     - The winner of the election based on popular vote
 
 ## Resources 
--Data source: [election_results.csv](Resources/election_results.csv)
--Softwate: Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] 
+- Data source: [election_results.csv](Resources/election_results.csv)
+- Softwate: Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] 
