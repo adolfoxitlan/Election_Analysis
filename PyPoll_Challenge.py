@@ -3,7 +3,6 @@
 
 # Add our dependencies.
 import csv
-from fileinput import filename
 import os
 
 # Add a variable to load a file from a path.
