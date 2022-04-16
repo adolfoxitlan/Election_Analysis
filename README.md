@@ -125,5 +125,9 @@ The calculation result showed that even adding the votes of the two candidates w
 The results of this development pleasantly surprised the committee; due to this, they intend to use it for future voting and extend it to more country states.
 
 The following modifications are proposed to the script to extend its use if required.
-* 1.- Adding two variables and an input() function to add the ability to choose another file/file path without modifying the code.
+* - Adding two variables and an input() function to add the ability to choose another file/file path without modifying the code.
+
+https://user-images.githubusercontent.com/102424210/163659647-a49b26b1-759e-4e37-bcf5-bce14b503573.mp4
+
+
 
